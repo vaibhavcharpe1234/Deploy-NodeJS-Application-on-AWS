@@ -19,6 +19,7 @@ SECRET_KEY=""
 6.	Initialise and start the project
 
 npm install
+
 npm run start
 
 7.	  Verify application on browser by public_ip:3000
